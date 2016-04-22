@@ -1,7 +1,14 @@
 {
     "require": {
         "Magento/Phpsdk": "dev-master"
-    }
+    },
+    "repositories": [
+        {
+
+            "type":"composer",
+            "url": "https://github.com/rosejohn/phpsdk.git"
+        }
+    ]
 }
 
 
