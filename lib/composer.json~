@@ -1,0 +1,7 @@
+{
+    "require": {
+        "Magento/Phpsdk": "dev-master"
+    }
+}
+
+
