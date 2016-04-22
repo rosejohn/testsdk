@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "4323509dddb8cab146589e6d8cc83f7f",
+    "content-hash": "3c1773910c6e8d9a3da1c12ccb845c87",
+    "packages": [
+        {
+            "name": "Magento/Phpsdk",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/rosejohn/phpsdk.git",
+                "reference": "9b6ce6c2f8f7708d22aede9778eddd9f2a50c8d7"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.0.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Magento\\Phpsdk\\": "src"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tryzens",
+                    "email": "manaf.pm@tryzens.com"
+                }
+            ],
+            "description": "Test PHP sdk",
+            "keywords": [
+                "composer"
+            ],
+            "time": "2016-04-22 08:47:36"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "magento/phpsdk": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
