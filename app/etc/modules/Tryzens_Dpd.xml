@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Tryzens_Dpd>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Tryzens_Dpd>
+    </modules>
+</config>
