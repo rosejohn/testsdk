@@ -6,6 +6,11 @@
         </Tryzens_Dpd>
     </modules>
     <global>
+        <models>
+        <dpd>
+            <class>Tryzens_Dpd_Model</class>
+        </dpd>
+        </models>
         <helpers>
             <dpd>
                 <class>Tryzens_Dpd_Helper</class>

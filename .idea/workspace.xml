@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a15eea2f-7faf-48e0-8fe9-8054cee7fed6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Tryzens/Dpd/etc/config.xml" afterPath="$PROJECT_DIR$/app/code/local/Tryzens/Dpd/etc/config.xml" />
-    </list>
+    <list default="true" id="a15eea2f-7faf-48e0-8fe9-8054cee7fed6" name="Default" comment="" />
     <ignored path="testsdk.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -51,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/app/code/local/Tryzens/Dpd/etc/config.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.43984962" vertical-offset="0" max-vertical-offset="532">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <caret line="13" column="13" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -337,7 +335,7 @@
     <entry file="file://$PROJECT_DIR$/app/code/local/Tryzens/Dpd/etc/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43984962" vertical-offset="0" max-vertical-offset="532">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="13" column="13" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
       </provider>
