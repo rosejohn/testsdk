@@ -1,5 +1,6 @@
 {
     "name": "magento/testsdk",
+    "version":"dev-master",
     "description": "testsdk",
     "require": {}
 }
