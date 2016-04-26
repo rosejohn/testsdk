@@ -7,9 +7,9 @@
     </modules>
     <global>
         <helpers>
-                <dpd>
-                    <class>Tryzens_Dpd_Helper</class>
-                </dpd>
+            <dpd>
+                <class>Tryzens_Dpd_Helper</class>
+            </dpd>
         </helpers>
     </global>
 </config>
