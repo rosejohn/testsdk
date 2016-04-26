@@ -7,9 +7,9 @@
     </modules>
     <global>
         <models>
-        <dpd>
-            <class>Tryzens_Dpd_Model</class>
-        </dpd>
+            <dpd>
+                <class>Tryzens_Dpd_Model</class>
+            </dpd>
         </models>
         <helpers>
             <dpd>
