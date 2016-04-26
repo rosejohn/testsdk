@@ -1,2 +1,2 @@
-@shell if [ ! -d $MODULE/lib/vendor ] ; then cd $MODULE/lib && php $MODULE/lib/composer.phar install --no-interaction; fi
-lib/vendor lib/PhpSdk
+app/etc/modules/Tryzens_Dpd.xml   app/etc/modules/Tryzens_Dpd.xml
+app/code/local/Tryzens/Dpd/etc/config.xml   app/code/local/Tryzens/Dpd/etc/config.xml
